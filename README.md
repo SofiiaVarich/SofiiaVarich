@@ -46,8 +46,13 @@ Building interactive tools where **quantum physics**, **AI agents**, and **visua
 
 [![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SofiiaVarich&theme=tokyo-night&hide_border=true)](https://github.com/SofiiaVarich)
 
-<!-- Optional animated snake: available after a GitHub Actions workflow generates the SVG.
-     For a true GitHub profile README, this file must live in public repo SofiiaVarich/SofiiaVarich. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SofiiaVarich/MyGitHubProfile/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SofiiaVarich/MyGitHubProfile/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/SofiiaVarich/MyGitHubProfile/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>The snake appears once the scheduled workflow has run successfully and published its output branch.</sub>
 
 </div>
 
