@@ -118,9 +118,9 @@ More experiments in simulation, automation, design, and software development.
 ### 🐍 Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SofiiaVarich/MyGitHubProfile/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SofiiaVarich/MyGitHubProfile/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/SofiiaVarich/MyGitHubProfile/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SofiiaVarich/SofiiaVarich/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SofiiaVarich/SofiiaVarich/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/SofiiaVarich/SofiiaVarich/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <sub>Snake appears after the GitHub Actions workflow successfully generates it. If you rename this repository, update the image URLs to match.</sub>
