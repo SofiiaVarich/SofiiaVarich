@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Animated introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Exploring+quantum+worlds+%E2%9A%9B%EF%B8%8F;Building+AI+experiences+%F0%9F%A4%96;Making+ideas+interactive+%F0%9F%8C%8C)
+<img alt="Animated introduction: 10 years programming, quantum physics, AI agents, creative coding" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=55&lines=10+years+of+programming+experience;Quantum+physics+%E2%9A%9B%EF%B8%8F+%2B+AI+agents+%F0%9F%A4%96;Creative+coding+%2B+interactive+worlds" />
 
 </div>
 
@@ -98,6 +98,12 @@ I built an experimental WebGL portfolio inspired by the idea of a digital collec
 [![Explore the source](https://img.shields.io/badge/EXPLORE_DIGITAL_ARCHIVE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SofiiaVarich/SofiiaVarich/blob/main/index.html)
 
 > To publish the interactive site, enable GitHub Pages for this repository using **Deploy from a branch → main → / (root)**. Once enabled, the site should be available at `https://sofiiaVarich.github.io/`.
+
+<div align="center">
+
+<img alt="Animated section introduction: code, create, explore" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&color=7DD3FC&center=true&vCenter=true&width=600&lines=Code.+Create.+Explore.;Learning+through+experiments.;Making+complex+ideas+visual." />
+
+</div>
 
 ## 🚀 Selected projects
 
