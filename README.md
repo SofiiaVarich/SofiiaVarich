@@ -86,8 +86,6 @@ Statistics and language charts are provided by third-party services and reflect 
 
 **Blockchain** · ⚛️ Quantum simulation · 🤖 AI agents · 🎨 Creative coding
 
-[📄 Explore my CV](https://cv.sofiia.dev/)
-
 ## 🪐 Interactive Digital Archive
 
 I built an experimental WebGL portfolio inspired by the idea of a digital collection. Explore projects through animated 3D objects, category filters, and an interactive project viewer.
