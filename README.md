@@ -39,6 +39,10 @@
 
 ## 📊 Live GitHub dashboard
 
+<div align="right"><img src="https://raw.githubusercontent.com/tlberglund/animated-gifs/master/dachsund-cute.gif" width="105" alt="Cute dachshund animated GIF" /></div>
+
+
+
 <div align="center">
 
 <img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=SofiiaVarich&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
@@ -101,6 +105,10 @@ I built an experimental WebGL portfolio inspired by the idea of a digital collec
 
 ## 🚀 Selected projects
 
+<div align="right"><img src="https://raw.githubusercontent.com/tlberglund/animated-gifs/master/dog-running-in-circles.gif" width="110" alt="Playful dog running in circles" /></div>
+
+
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -146,6 +154,10 @@ More experiments in simulation, automation, design, and software development.
 
 ## 📈 Contribution activity
 
+<div align="right"><img src="https://raw.githubusercontent.com/tlberglund/animated-gifs/master/dramatic-pug.gif" width="105" alt="Funny dramatic pug animation" /></div>
+
+
+
 <div align="center">
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SofiiaVarich&theme=tokyo-night&hide_border=true)](https://github.com/SofiiaVarich)
@@ -182,7 +194,7 @@ More experiments in simulation, automation, design, and software development.
 
 <sub>Live cards depend on external services and may occasionally be unavailable. Only public projects are linked here.</sub>
 
-## 😸 Debugging companions
+## 🐶🐱 Debugging companions
 
 <div align="center">
 
