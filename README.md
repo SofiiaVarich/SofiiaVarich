@@ -92,7 +92,6 @@ I built an experimental WebGL portfolio inspired by the idea of a digital collec
 
 [![Explore the source](https://img.shields.io/badge/EXPLORE_DIGITAL_ARCHIVE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SofiiaVarich/SofiiaVarich/blob/main/index.html)
 
-> To publish the interactive site, enable GitHub Pages for this repository using **Deploy from a branch → main → / (root)**. Once enabled, the site should be available at `https://sofiiaVarich.github.io/`.
 
 <div align="center">
 
