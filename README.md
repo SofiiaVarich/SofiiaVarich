@@ -12,6 +12,12 @@
 
 </div>
 
+<div align="center">
+
+![Animated introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Exploring+quantum+worlds+%E2%9A%9B%EF%B8%8F;Building+AI+experiences+%F0%9F%A4%96;Making+ideas+interactive+%F0%9F%8C%8C)
+
+</div>
+
 ---
 
 ### `> whoami`
@@ -134,6 +140,26 @@ More experiments in simulation, automation, design, and software development.
 <sub>Snake appears after the GitHub Actions workflow successfully generates it. If you rename this repository, update the image URLs to match.</sub>
 
 </div>
+
+## 🌠 More ways to explore
+
+<div align="center">
+
+![Contribution trophies](https://github-profile-trophy.vercel.app/?username=SofiiaVarich&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)
+
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SofiiaVarich&theme=tokyonight)
+
+</div>
+
+### 🪐 Project constellations
+
+| Universe | Explore |
+| --- | --- |
+| ⚛️ **Quantum experiments** | [Quantum State Laboratory](https://github.com/SofiiaVarich/Quantum-Simulator-) · [Quantum Atlas](https://github.com/SofiiaVarich/3D-Tunnel-) |
+| 📚 **Learning experiences** | [Quantum Tutor](https://github.com/SofiiaVarich/QuantumMechanics-FU) · [Physics Cards](https://github.com/SofiiaVarich/Physics-Cards) |
+| 🎨 **Creative interfaces** | [3D Tunnel](https://github.com/SofiiaVarich/3D-Tunnel-) · [Golden Fish Loading](https://github.com/SofiiaVarich/GoldenFishLoading) |
+
+<sub>Live cards depend on external services and may occasionally be unavailable. Only public projects are linked here.</sub>
 
 ## 🌌 Current interests
 
