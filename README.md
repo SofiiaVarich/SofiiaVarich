@@ -59,8 +59,6 @@ Statistics and language charts are provided by third-party services and reflect 
 
 ## 🧰 Technologies & tools
 
-*Technical skills listed in my [CV repository](https://github.com/SofiiaVarich/CV_Sofiia_Varich), plus JavaScript and developer tools used in my projects.*
-
 ### 💻 Programming languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
