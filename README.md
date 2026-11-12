@@ -4,7 +4,7 @@
 
 ### ⚛️ Physics · 🤖 AI Agents · 🎨 Creative Coding
 
-*Turning complex ideas into interactive experiences.*
+**10 years of programming experience** · Turning complex ideas into interactive experiences.
 
 ![Profile views](https://komarev.com/ghpvc/?username=SofiiaVarich&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/SofiiaVarich?style=for-the-badge&color=6d28d9&labelColor=111827)](https://github.com/SofiiaVarich?tab=followers)
@@ -28,7 +28,7 @@
 │                                                  │
 │  INTERESTS  quantum physics · AI · visual web    │
 │  BUILDING   study tools · simulations · agents   │
-│  MODE       curious, experimental, hands-on      │
+│  EXPERIENCE 10 years of programming              │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -57,18 +57,39 @@ Statistics and language charts are provided by third-party services and reflect 
 
 </details>
 
-## 🧰 Tools & technologies
+## 🧰 Technologies & tools
 
-<div align="center">
+*Technical skills listed in my [CV repository](https://github.com/SofiiaVarich/CV_Sofiia_Varich), plus JavaScript and developer tools used in my projects.*
 
+### 💻 Programming languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🌐 Web & databases
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+### 🛠️ Development & productivity
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### ⛓️ Additional areas
+
+**Blockchain** · ⚛️ Quantum simulation · 🤖 AI agents · 🎨 Creative coding
+
+[📄 Explore my CV](https://cv.sofiia.dev/)
 
 ## 🪐 Interactive Digital Archive
 
