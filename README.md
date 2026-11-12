@@ -186,6 +186,20 @@ More experiments in simulation, automation, design, and software development.
 
 <sub>Live cards depend on external services and may occasionally be unavailable. Only public projects are linked here.</sub>
 
+## 😸 Debugging companions
+
+<div align="center">
+
+<a href="https://giphy.com/explore/cat-programming"><img src="https://media2.giphy.com/media/k0ijJhqrUP4T2EvmJ1/200w.gif" width="210" alt="Funny coding cat GIF from GIPHY" /></a>
+<a href="https://giphy.com/explore/cat-programming"><img src="https://media3.giphy.com/media/1aPuY0iblEJupNGrWL/200w.gif" width="210" alt="Keyboard cat GIF from GIPHY" /></a>
+<a href="https://giphy.com/explore/cat-programming"><img src="https://media0.giphy.com/media/OS9R41QuUqjnwMcqYI/200w.gif" width="210" alt="Working cat GIF from GIPHY" /></a>
+
+*When the code works on the first try, I get suspicious. 🐈‍⬛*
+
+<sub>GIFs via GIPHY. Motion depends on image loading and GitHub display preferences.</sub>
+
+</div>
+
 ## 🌌 Current interests
 
 ```text
